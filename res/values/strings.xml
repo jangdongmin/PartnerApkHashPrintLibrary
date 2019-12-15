@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RemoteController!</string>
+    <string name="app_name">ubikeyCon</string>
+ 
+	<!-- 인증서 관리 시 -->	
+	<string name="certList_mng_top">인증서 관리</string>
+	<string name="certList_mng_subText">인증서 선택</string>
+	
+	<string name="certList_dig_mng_title">인증서 삭제</string>
+	<string name="certList_dig_mng_msg">정말 삭제하시겠습니까?</string>
+	<string name="certList_dig_mng_btn_yes">예</string>
+	<string name="certList_dig_mng_btn_no">아니오</string>
+	
+</resources>
